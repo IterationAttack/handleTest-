@@ -64,7 +64,7 @@
     "@babel/preset-react": "^7.9.4",
     "@babel/preset-typescript": "^7.9.0",
     "@commitlint/cli": "^8.3.5",
-    "@commitlint/config-conventional": "^8.3.4",
+    "@commitlint/config-conventional": "^16.2.1",
     "@crazyfactory/tslint-rules": "^1.9.0",
     "@storybook/addon-docs": "^5.3.18",
     "@storybook/react": "^5.3.18",
